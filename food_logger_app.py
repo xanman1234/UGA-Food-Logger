@@ -110,7 +110,7 @@ st.markdown("---")
 
 # --- 2. View History & Statistics ---
 
-st.subheader("📊 Daily Summary")
+st.subheader("Daily Summary")
 
 # Load data
 df = get_log_dataframe()
